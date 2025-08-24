@@ -374,6 +374,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Get Started](#installation) • [Documentation](docs/) • [Examples](examples/) • [Contributing](#contributing)**
 
-Made with ❤️ by the Aider Enhanced team
+Made by Team ByteBrains
 
 </div>
